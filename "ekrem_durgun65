@@ -1,0 +1,7 @@
+echo "#Bee" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk bağlılık" 
+git şubesi -M ana 
+git uzak kaynak ekle https://github.com/ekremdurgun65/Bee.git
+ git push - u menşei ana
